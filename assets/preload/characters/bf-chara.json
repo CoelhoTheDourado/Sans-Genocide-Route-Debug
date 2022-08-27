@@ -1,0 +1,166 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "0Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-18,
+				-32
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "0Ouu",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-45,
+				59
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "0UPPP",
+			"indices": []
+		},
+		{
+			"offsets": [
+				67,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "0EERR"
+		},
+		{
+			"offsets": [
+				-36,
+				-4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "0EEEE"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-19,
+				25
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "L-Miss instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-27,
+				-19
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "D-Miss instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-51,
+				114
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "U-Miss instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				13,
+				21
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "R-Miss instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				35
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "gdgdg instance 1",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				14,
+				-823
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "gdgdg instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				-919
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "gdgdg instance 1",
+			"indices": []
+		},
+		{
+			"offsets": [
+				1110,
+				-10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "dodge",
+			"loop": false,
+			"name": "0BF attack copy instance 1"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "sans-2/chara",
+	"position": [
+		10,
+		300
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		750,
+		-100
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

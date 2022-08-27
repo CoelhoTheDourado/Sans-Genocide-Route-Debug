@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-21,
+				-237
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "EReree ee instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				31,
+				-237
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "LeftUT instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-23,
+				-237
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "DownUT instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-23,
+				-209
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "UpUT instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-23,
+				-238
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "RightUT instance 1",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "sans-2/Sans_but_Rip_colors",
+	"position": [
+		330,
+		-720
+	],
+	"healthicon": "sans-2",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-140,
+		350
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
